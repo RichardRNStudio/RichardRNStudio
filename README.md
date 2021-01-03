@@ -23,6 +23,7 @@
 ![Firebase](https://img.shields.io/badge/-Firebase-000?style=for-the-badge&logo=firebase)
 ![Google Analytics](https://img.shields.io/badge/-Google_Analytics-000?style=for-the-badge&logo=google-analytics)
 ![Google Tag Manager](https://img.shields.io/badge/-Google_Tag_Manager-000?style=for-the-badge&logo=google-tag-manager)
+![Google Optimize](https://img.shields.io/badge/-Google_Optimize-000?style=for-the-badge&logo=google)
 ![Jest](https://img.shields.io/badge/-Jest-000?style=for-the-badge&logo=jest&logoColor=red)
 ![Adobe Photoshop](https://img.shields.io/badge/-Adobe_Photoshop-000?style=for-the-badge&logo=adobe-photoshop&logoColor=blue)
 ![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git&logoColor=orange)
@@ -33,83 +34,87 @@
 
 <h3>My projects</h3>
 <table>
-  <tr>
-    <td>Name</td>
-    <td>Stack(s)</td>
-    <td>Link or status</td>
-    <td>Repository</td>
-  </tr>
-  <tr>
-    <td>PC Controller</td>
-    <td>
-      <a href="https://reactnative.dev/">
-        <img src="https://img.shields.io/badge/-React_Native-000?style=for-the-badge&logo=react" />
-      </a>
-    </td>
-    <td>
-       <a href="https://play.google.com/store/apps/details?id=com.pccontroller">
-        <img src="https://img.shields.io/badge/-Google_Play-000?style=for-the-badge&logo=google-play" />
-      </a>
-    </td>
-    <td><i>Private</i></td>
-  </tr>
-  <tr>
-    <td>PC Controller Web</td>
-    <td>
-      <a href="https://reactjs.org/">
-        <img src="https://img.shields.io/badge/-React-000?style=for-the-badge&logo=react" />
-      </a>
-    </td>
-    <td>
-       <a href="https://pccontroller.rnstudio.hu/">
-        <img src="https://img.shields.io/badge/-Website-000?style=for-the-badge" />
-      </a>
-    </td>
-    <td><i>Private</i></td>
-  </tr>
-  <tr>
-    <td>PC Remote Controller (C#)</td>
-    <td>
-      <a href="https://docs.microsoft.com/en-us/dotnet/csharp/">
-        <img src="https://img.shields.io/badge/-C%23-000?style=for-the-badge&logo=c-sharp&logoColor=white" />
-      </a>
-    </td>
-    <td>
-       <a href="https://pccontroller.rnstudio.hu/">
-        <img src="https://img.shields.io/badge/-Available_on_the_website-000?style=for-the-badge" />
-      </a>
-    </td>
-    <td><i>Private</i></td>
-  </tr>
-  <tr>
-    <td>PC Remote Controller (Electron)</td>
-    <td>
-        <img src="https://img.shields.io/badge/-Electron-000?style=for-the-badge&logo=electron" />
-        <img src="https://img.shields.io/badge/-Node.js-000?style=for-the-badge&logo=node.js" />
-        <img src="https://img.shields.io/badge/-React-000?style=for-the-badge&logo=react" />
-    </td>
-    <td>
-      <i>In progress</i>
-    </td>
-    <td><i>Private</i></td>
-  </tr>
-  <tr>
-    <td>react-native-find-local-devices</td>
-    <td>
-        <img src="https://img.shields.io/badge/-android-000?style=for-the-badge&logo=android" />
-        <img src="https://img.shields.io/badge/-Java-000?style=for-the-badge&logo=java" />
-    </td>
-    <td>
-       <a href="https://www.npmjs.com/package/react-native-find-local-devices">
-        <img src="https://img.shields.io/badge/-npm_package-000?style=for-the-badge&logo=npm" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/RichardRNStudio/react-native-find-local-devices">
-        <img src="https://img.shields.io/badge/-github-000?style=for-the-badge&logo=github" />
-      </a>
-    </td>
-  </tr>
+  <thead align="center">
+    <tr>
+      <td>Name</td>
+      <td>Stack(s)</td>
+      <td>Link or status</td>
+      <td>Repository</td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>PC Controller</td>
+      <td>
+        <a href="https://reactnative.dev/">
+          <img src="https://img.shields.io/badge/-React_Native-000?style=for-the-badge&logo=react" />
+        </a>
+      </td>
+      <td>
+         <a href="https://play.google.com/store/apps/details?id=com.pccontroller">
+          <img src="https://img.shields.io/badge/-Google_Play-000?style=for-the-badge&logo=google-play" />
+        </a>
+      </td>
+      <td><i>Private</i></td>
+    </tr>
+    <tr>
+      <td>PC Controller Web</td>
+      <td>
+        <a href="https://reactjs.org/">
+          <img src="https://img.shields.io/badge/-React-000?style=for-the-badge&logo=react" />
+        </a>
+      </td>
+      <td>
+         <a href="https://pccontroller.rnstudio.hu/">
+          <img src="https://img.shields.io/badge/-Website-000?style=for-the-badge" />
+        </a>
+      </td>
+      <td><i>Private</i></td>
+    </tr>
+    <tr>
+      <td>PC Remote Controller (C#)</td>
+      <td>
+        <a href="https://docs.microsoft.com/en-us/dotnet/csharp/">
+          <img src="https://img.shields.io/badge/-C%23-000?style=for-the-badge&logo=c-sharp&logoColor=white" />
+        </a>
+      </td>
+      <td>
+         <a href="https://pccontroller.rnstudio.hu/">
+          <img src="https://img.shields.io/badge/-Available_on_the_website-000?style=for-the-badge" />
+        </a>
+      </td>
+      <td><i>Private</i></td>
+    </tr>
+    <tr>
+      <td>PC Remote Controller (Electron)</td>
+      <td>
+          <img src="https://img.shields.io/badge/-Electron-000?style=for-the-badge&logo=electron" />
+          <img src="https://img.shields.io/badge/-Node.js-000?style=for-the-badge&logo=node.js" />
+          <img src="https://img.shields.io/badge/-React-000?style=for-the-badge&logo=react" />
+      </td>
+      <td>
+        <i>In progress</i>
+      </td>
+      <td><i>Private</i></td>
+    </tr>
+    <tr>
+      <td>react-native-find-local-devices</td>
+      <td>
+          <img src="https://img.shields.io/badge/-android-000?style=for-the-badge&logo=android" />
+          <img src="https://img.shields.io/badge/-Java-000?style=for-the-badge&logo=java" />
+      </td>
+      <td>
+         <a href="https://www.npmjs.com/package/react-native-find-local-devices">
+          <img src="https://img.shields.io/badge/-npm_package-000?style=for-the-badge&logo=npm" />
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/RichardRNStudio/react-native-find-local-devices">
+          <img src="https://img.shields.io/badge/-github-000?style=for-the-badge&logo=github" />
+        </a>
+      </td>
+    </tr>
+  </tbody>
 </table>
 
 <h3>PC Controller</h3>
