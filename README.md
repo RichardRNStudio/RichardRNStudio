@@ -1,5 +1,5 @@
 <h1>Hi, I'm Richard :wave:</h1>
-<h3>I'm working as frontend developer</h3>
+<h3>I'm working as front-end developer</h3>
 
 <h3>Languages</h3>
 
