@@ -4,7 +4,7 @@
 <h3>Languages</h3>
 
 ![Javascript](https://img.shields.io/badge/-Javascript-000?style=for-the-badge&logo=javascript)
-![C](https://img.shields.io/badge/-C-000?style=for-the-badge&logo=C)
+![C#](https://img.shields.io/badge/-C%23-000?style=for-the-badge&logo=C)
 ![Java](https://img.shields.io/badge/-Java-000?style=for-the-badge&logo=java)
 ![SQL](https://img.shields.io/badge/-SQL-000?style=for-the-badge&logo=sqlite)
 
@@ -43,6 +43,30 @@
     <td>
        <a href="https://play.google.com/store/apps/details?id=com.pccontroller">
         <img src="https://img.shields.io/badge/-Google_Play-000?style=for-the-badge&logo=google-play" />
+      </a>
+    </td>
+    <td><i>Private</i></td>
+    <td>PC Controller Web</td>
+    <td>
+      <a href="https://reactjs.org/">
+        <img src="https://img.shields.io/badge/-React-000?style=for-the-badge&logo=react" />
+      </a>
+    </td>
+    <td>
+       <a href="https://pccontroller.rnstudio.hu/">
+        <img src="https://img.shields.io/badge/-Website-000?style=for-the-badge" />
+      </a>
+    </td>
+    <td><i>Private</i></td>
+    <td>PC Remote Controller (C# version)</td>
+    <td>
+      <a href="https://docs.microsoft.com/en-us/dotnet/csharp/">
+        <img src="https://img.shields.io/badge/-C%23-000?style=for-the-badge&logo=C" />
+      </a>
+    </td>
+    <td>
+       <a href="https://pccontroller.rnstudio.hu/">
+        <img src="https://img.shields.io/badge/-Download_from_the_website-000?style=for-the-badge" />
       </a>
     </td>
     <td><i>Private</i></td>
