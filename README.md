@@ -25,6 +25,9 @@
 ![Google Tag Manager](https://img.shields.io/badge/-Google_Tag_Manager-000?style=for-the-badge&logo=google-tag-manager)
 ![Jest](https://img.shields.io/badge/-Jest-000?style=for-the-badge&logo=jest&logoColor=red)
 ![Adobe Photoshop](https://img.shields.io/badge/-Adobe_Photoshop-000?style=for-the-badge&logo=adobe-photoshop&logoColor=blue)
+![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git&logoColor=orange)
+![HTML5](https://img.shields.io/badge/-HTML5-000?style=for-the-badge&logo=html5&logoColor=orange)
+![CSS3](https://img.shields.io/badge/-CSS3-000?style=for-the-badge&logo=css3&logoColor=blue)
 
 <h3>My projects</h3>
 <table>
