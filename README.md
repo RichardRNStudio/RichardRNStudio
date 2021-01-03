@@ -42,7 +42,7 @@
     </td>
     <td>
        <a href="https://play.google.com/store/apps/details?id=com.pccontroller">
-        <img src="https://img.shields.io/badge/-Available_on_Google_Play-000?style=for-the-badge&logo=google-play" />
+        <img src="https://img.shields.io/badge/-Google_Play-000?style=for-the-badge&logo=google-play" />
       </a>
     </td>
     <td><i>Private</i></td>
@@ -83,12 +83,12 @@
     </td>
     <td>
        <a href="https://www.npmjs.com/package/react-native-find-local-devices">
-        <img src="https://img.shields.io/badge/-Available_on_npm-000?style=for-the-badge&logo=npm" />
+        <img src="https://img.shields.io/badge/-npm_package-000?style=for-the-badge&logo=npm" />
       </a>
     </td>
     <td>
       <a href="https://github.com/RichardRNStudio/react-native-find-local-devices">
-        <img src="https://img.shields.io/badge/-Available_on_github-000?style=for-the-badge&logo=github" />
+        <img src="https://img.shields.io/badge/-github-000?style=for-the-badge&logo=github" />
       </a>
     </td>
   </tr>
