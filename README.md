@@ -75,4 +75,29 @@
     </td>
     <td><i>Private</i></td>
   </tr>
+  <tr>
+    <td>react-native-find-local-devices</td>
+    <td>
+        <img src="https://img.shields.io/badge/-android-000?style=for-the-badge&logo=android" />
+        <img src="https://img.shields.io/badge/-Java-000?style=for-the-badge&logo=java" />
+    </td>
+    <td>
+       <a href="https://www.npmjs.com/package/react-native-find-local-devices">
+        <img src="https://img.shields.io/badge/-Download_from_npm-000?style=for-the-badge&logo=npm" />
+      </a>
+    </td>
+    <td><i>Private</i></td>
+  </tr>
+  <tr>
+    <td>PC Remote Controller (Electron version)</td>
+    <td>
+        <img src="https://img.shields.io/badge/-Electron-000?style=for-the-badge&logo=electron" />
+        <img src="https://img.shields.io/badge/-Node.js-000?style=for-the-badge&logo=node.js" />
+        <img src="https://img.shields.io/badge/-React-000?style=for-the-badge&logo=react" />
+    </td>
+    <td>
+      <i>In progress</i>
+    </td>
+    <td><i>Private</i></td>
+  </tr>
 </table>
