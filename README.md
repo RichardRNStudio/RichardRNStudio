@@ -6,6 +6,7 @@
 ![Javascript](https://img.shields.io/badge/-Javascript-000?style=for-the-badge&logo=javascript)
 ![C#](https://img.shields.io/badge/-C%23-000?style=for-the-badge&logo=C)
 ![Java](https://img.shields.io/badge/-Java-000?style=for-the-badge&logo=java)
+![PHP](https://img.shields.io/badge/-PHP-000?style=for-the-badge&logo=php&logoColor=purple)
 ![SQL](https://img.shields.io/badge/-SQL-000?style=for-the-badge&logo=sqlite)
 
 <h3>Technologies</h3>
