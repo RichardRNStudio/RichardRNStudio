@@ -35,12 +35,12 @@
   </tr>
   <tr>
     <td>PC Controller</td>
-    <td vlign="center">
+    <td>
       <a href="https://reactnative.dev/">
         <img src="https://img.shields.io/badge/-React_Native-000?style=for-the-badge&logo=react" />
       </a>
     </td>
-    <td vlign="center">
+    <td>
        <a href="https://play.google.com/store/apps/details?id=com.pccontroller">
         <img src="https://img.shields.io/badge/-Google_Play-000?style=for-the-badge&logo=google-play" />
       </a>
