@@ -36,7 +36,9 @@
   <tr>
     <td>PC Controller</td>
     <td>
-      ![React Native](https://img.shields.io/badge/-React_Native-000?style=flat-square&logo=react)
+      <a href="https://reactnative.dev/">
+        <img src="https://img.shields.io/badge/-React_Native-000?style=flat-square&logo=react" />
+      </a>
     </td>
     <td>
       [![Google Play](https://img.shields.io/badge/-Google_Play-000?style=for-the-badge&logo=google-play)](https://play.google.com/store/apps/details?id=com.pccontroller)
