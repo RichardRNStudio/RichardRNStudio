@@ -123,3 +123,8 @@
 <a href="https://pccontroller.rnstudio.hu/">
   <img src="https://github.com/RichardRNStudio/RichardRNStudio/blob/main/mockups.png?raw=true" />
 </a>
+
+<h3>Follow me</h3>
+<a href="https://www.linkedin.com/in/nagy-rich%C3%A1rd-3363a9140/">
+  <img src="https://img.shields.io/badge/-LINKEDIN-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
