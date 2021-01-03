@@ -10,4 +10,5 @@
 ![React](https://img.shields.io/badge/-React-000?style=for-the-badge&logo=react)
 ![React Native](https://img.shields.io/badge/-React_Native-000?style=for-the-badge&logo=react)
 ![NodeJS](https://img.shields.io/badge/-Node.js-000?style=for-the-badge&logo=node.js)
+![Redux](https://img.shields.io/badge/-Redux-000?style=for-the-badge&logo=redux)
 ![Angular](https://img.shields.io/badge/-Angular-000?style=for-the-badge&logo=angular)
