@@ -2,12 +2,14 @@
 <h3>I'm working as frontend developer</h3>
 
 <h3>Languages</h3>
+
 ![Javascript](https://img.shields.io/badge/-Javascript-000?style=for-the-badge&logo=javascript)
 ![C](https://img.shields.io/badge/-C-000?style=for-the-badge&logo=C)
 ![Java](https://img.shields.io/badge/-Java-000?style=for-the-badge&logo=java)
 ![SQL](https://img.shields.io/badge/-SQL-000?style=for-the-badge&logo=sqlite)
 
 <h3>Technologies</h3>
+
 ![React](https://img.shields.io/badge/-React-000?style=for-the-badge&logo=react)
 ![React Native](https://img.shields.io/badge/-React_Native-000?style=for-the-badge&logo=react)
 ![Redux](https://img.shields.io/badge/-Redux-000?style=for-the-badge&logo=redux&logoColor=purple)
