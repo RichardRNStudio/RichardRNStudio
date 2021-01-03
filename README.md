@@ -28,6 +28,8 @@
 ![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git&logoColor=orange)
 ![HTML5](https://img.shields.io/badge/-HTML5-000?style=for-the-badge&logo=html5&logoColor=orange)
 ![CSS3](https://img.shields.io/badge/-CSS3-000?style=for-the-badge&logo=css3&logoColor=blue)
+![Flexbox](https://img.shields.io/badge/-Flexbox-000?style=for-the-badge&logo=css3&logoColor=blue)
+![Sass](https://img.shields.io/badge/-Sass-000?style=for-the-badge&logo=sass&logoColor=ff69b4)
 
 <h3>My projects</h3>
 <table>
