@@ -29,8 +29,8 @@
 <table>
   <tr>
     <td>Name</td>
-    <td>Stack</td>
-    <td>Link</td>
+    <td>Stack(s)</td>
+    <td>Link or status</td>
     <td>Repository</td>
   </tr>
   <tr>
@@ -86,7 +86,11 @@
         <img src="https://img.shields.io/badge/-Download_from_npm-000?style=for-the-badge&logo=npm" />
       </a>
     </td>
-    <td><i>Private</i></td>
+    <td>
+      <a href="https://github.com/RichardRNStudio/react-native-find-local-devices">
+        <img src="https://img.shields.io/badge/-Available_on_github-000?style=for-the-badge&logo=github" />
+      </a>
+    </td>
   </tr>
   <tr>
     <td>PC Remote Controller (Electron version)</td>
