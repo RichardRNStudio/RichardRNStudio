@@ -107,4 +107,4 @@
 </table>
 
 <h3>PC Controller</h3>
-<p>PC Controller is my first react native application which can be helpful for anybody who would like to control his computers from an android device. The application is communicating with a c# application which handle all of requests on the client's windows machine.</p>
+<p>PC Controller is my first react native application which can be helpful for anybody who would like to control his computers from an android device. The application is communicating with a c# application which handles all of requests on the client's windows machine.</p>
