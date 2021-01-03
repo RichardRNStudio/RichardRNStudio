@@ -36,10 +36,10 @@
 <table>
   <thead align="center">
     <tr>
-      <td>Name</td>
-      <td>Stack(s)</td>
-      <td>Link or status</td>
-      <td>Repository</td>
+      <td><b>Name</b></td>
+      <td><b>Stack(s)</b></td>
+      <td><b>Link or status</b></td>
+      <td><b>Repository</b></td>
     </tr>
   </thead>
   <tbody valign="center">
