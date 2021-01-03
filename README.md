@@ -70,7 +70,7 @@
     </td>
     <td>
        <a href="https://pccontroller.rnstudio.hu/">
-        <img src="https://img.shields.io/badge/-Download_from_the_website-000?style=for-the-badge" />
+        <img src="https://img.shields.io/badge/-Available_on_the_website-000?style=for-the-badge" />
       </a>
     </td>
     <td><i>Private</i></td>
@@ -83,7 +83,7 @@
     </td>
     <td>
        <a href="https://www.npmjs.com/package/react-native-find-local-devices">
-        <img src="https://img.shields.io/badge/-Download_from_npm-000?style=for-the-badge&logo=npm" />
+        <img src="https://img.shields.io/badge/-Available_on_npm-000?style=for-the-badge&logo=npm" />
       </a>
     </td>
     <td>
