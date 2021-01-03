@@ -24,3 +24,17 @@
 ![Google Tag Manager](https://img.shields.io/badge/-Google_Tag_Manager-000?style=for-the-badge&logo=google-tag-manager)
 ![Jest](https://img.shields.io/badge/-Jest-000?style=for-the-badge&logo=jest&logoColor=red)
 ![Adobe Photoshop](https://img.shields.io/badge/-Adobe_Photoshop-000?style=for-the-badge&logo=adobe-photoshop&logoColor=blue)
+
+<h3>My projects</h3>
+<table>
+  <tr>
+    <td>Name</td>
+    <td>Main technologies</td>
+    <td>Repository link</td>
+  </tr>
+  <tr>
+    <td>PC Controller</td>
+    <td>React Native</td>
+    <td>Repository link</td>
+  </tr>
+</table>
