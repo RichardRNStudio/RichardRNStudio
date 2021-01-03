@@ -15,5 +15,6 @@
 ![Jira](https://img.shields.io/badge/-Jira-000?style=for-the-badge&logo=jira-software)
 ![Azure DevOps](https://img.shields.io/badge/-Azure_DevOps-000?style=for-the-badge&logo=azuredevops)
 ![Google Play](https://img.shields.io/badge/-Google_Play-000?style=for-the-badge&logo=google-play)
+![Firebase](https://img.shields.io/badge/-Firebase-000?style=for-the-badge&logo=firebase)
 ![Google Analytics](https://img.shields.io/badge/-Google_Analytics-000?style=for-the-badge&logo=google-analytics)
 ![Google Tag Manager](https://img.shields.io/badge/-Google_Tag_Manager-000?style=for-the-badge&logo=google-tag-manager)
