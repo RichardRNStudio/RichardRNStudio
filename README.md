@@ -19,3 +19,4 @@
 ![Firebase](https://img.shields.io/badge/-Firebase-000?style=for-the-badge&logo=firebase)
 ![Google Analytics](https://img.shields.io/badge/-Google_Analytics-000?style=for-the-badge&logo=google-analytics)
 ![Google Tag Manager](https://img.shields.io/badge/-Google_Tag_Manager-000?style=for-the-badge&logo=google-tag-manager)
+![Jest](https://img.shields.io/badge/-Jest-000?style=for-the-badge&logo=jest)
