@@ -33,7 +33,7 @@
     <td>Link</td>
     <td>Repository</td>
   </tr>
-  <tr style="text-align: center; vertical-align: middle;">
+  <tr vlign="center">
     <td>PC Controller</td>
     <td>
       <a href="https://reactnative.dev/">
