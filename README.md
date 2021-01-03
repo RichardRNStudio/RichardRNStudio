@@ -29,12 +29,15 @@
 <table>
   <tr>
     <td>Name</td>
-    <td>Main technologies</td>
-    <td>Repository link</td>
+    <td>Main technology</td>
+    <td>Link</td>
+    <td>Repository</td>
   </tr>
   <tr>
     <td>PC Controller</td>
-    <td>React Native</td>
-    <td>Repository link</td>
+    <td>
+      ![React Native](https://img.shields.io/badge/-React_Native-000?style=flat-square&logo=react)
+    </td>
+    <td><i>Private</i></td>
   </tr>
 </table>
