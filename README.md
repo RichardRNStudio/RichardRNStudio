@@ -12,6 +12,7 @@
 ![Redux](https://img.shields.io/badge/-Redux-000?style=for-the-badge&logo=redux)
 ![Angular](https://img.shields.io/badge/-Angular-000?style=for-the-badge&logo=angular)
 ![NodeJS](https://img.shields.io/badge/-Node.js-000?style=for-the-badge&logo=node.js)
+![Electron](https://img.shields.io/badge/-Electron-000?style=for-the-badge&logo=electron)
 ![Jira](https://img.shields.io/badge/-Jira-000?style=for-the-badge&logo=jira-software)
 ![Azure DevOps](https://img.shields.io/badge/-Azure_DevOps-000?style=for-the-badge&logo=azuredevops)
 ![Google Play](https://img.shields.io/badge/-Google_Play-000?style=for-the-badge&logo=google-play)
