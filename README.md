@@ -29,7 +29,7 @@
 <table>
   <tr>
     <td>Name</td>
-    <td>Main technology</td>
+    <td>Stack</td>
     <td>Link</td>
     <td>Repository</td>
   </tr>
