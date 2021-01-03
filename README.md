@@ -62,7 +62,7 @@
     <td><i>Private</i></td>
   </tr>
   <tr>
-    <td>PC Remote Controller (C# version)</td>
+    <td>PC Remote Controller (C#)</td>
     <td>
       <a href="https://docs.microsoft.com/en-us/dotnet/csharp/">
         <img src="https://img.shields.io/badge/-C%23-000?style=for-the-badge&logo=C" />
@@ -93,7 +93,7 @@
     </td>
   </tr>
   <tr>
-    <td>PC Remote Controller (Electron version)</td>
+    <td>PC Remote Controller (Electron)</td>
     <td>
         <img src="https://img.shields.io/badge/-Electron-000?style=for-the-badge&logo=electron" />
         <img src="https://img.shields.io/badge/-Node.js-000?style=for-the-badge&logo=node.js" />
