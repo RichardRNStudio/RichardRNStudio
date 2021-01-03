@@ -37,7 +37,7 @@
     <td>PC Controller</td>
     <td>
       <a href="https://reactnative.dev/">
-        <img src="https://img.shields.io/badge/-React_Native-000?style=flat-square&logo=react" />
+        <img src="https://img.shields.io/badge/-React_Native-000?style=for-the-badge&logo=react" />
       </a>
     </td>
     <td>
