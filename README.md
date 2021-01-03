@@ -76,6 +76,18 @@
     <td><i>Private</i></td>
   </tr>
   <tr>
+    <td>PC Remote Controller (Electron)</td>
+    <td>
+        <img src="https://img.shields.io/badge/-Electron-000?style=for-the-badge&logo=electron" />
+        <img src="https://img.shields.io/badge/-Node.js-000?style=for-the-badge&logo=node.js" />
+        <img src="https://img.shields.io/badge/-React-000?style=for-the-badge&logo=react" />
+    </td>
+    <td>
+      <i>In progress</i>
+    </td>
+    <td><i>Private</i></td>
+  </tr>
+  <tr>
     <td>react-native-find-local-devices</td>
     <td>
         <img src="https://img.shields.io/badge/-android-000?style=for-the-badge&logo=android" />
@@ -91,18 +103,6 @@
         <img src="https://img.shields.io/badge/-github-000?style=for-the-badge&logo=github" />
       </a>
     </td>
-  </tr>
-  <tr>
-    <td>PC Remote Controller (Electron)</td>
-    <td>
-        <img src="https://img.shields.io/badge/-Electron-000?style=for-the-badge&logo=electron" />
-        <img src="https://img.shields.io/badge/-Node.js-000?style=for-the-badge&logo=node.js" />
-        <img src="https://img.shields.io/badge/-React-000?style=for-the-badge&logo=react" />
-    </td>
-    <td>
-      <i>In progress</i>
-    </td>
-    <td><i>Private</i></td>
   </tr>
 </table>
 
