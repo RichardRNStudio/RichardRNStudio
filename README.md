@@ -4,6 +4,7 @@
 <h3>Languages</h3>
 
 ![Javascript](https://img.shields.io/badge/-Javascript-000?style=for-the-badge&logo=javascript)
+![Typescript](https://img.shields.io/badge/-Typescript-000?style=for-the-badge&logo=typescript)
 ![C#](https://img.shields.io/badge/-C%23-000?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-000?style=for-the-badge&logo=java)
 ![PHP](https://img.shields.io/badge/-PHP-000?style=for-the-badge&logo=php&logoColor=blue)
