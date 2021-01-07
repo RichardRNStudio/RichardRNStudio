@@ -104,7 +104,6 @@
           <a href="https://reactnative.dev/">
             <img src="https://img.shields.io/badge/-React_Native-000?style=for-the-badge&logo=react" />
           </a>
-          <img src="https://img.shields.io/badge/-android-000?style=for-the-badge&logo=android" />
           <img src="https://img.shields.io/badge/-Java-000?style=for-the-badge&logo=java" />
       </td>
       <td>
