@@ -101,6 +101,9 @@
     <tr>
       <td>react-native-find-local-devices</td>
       <td>
+          <a href="https://reactnative.dev/">
+            <img src="https://img.shields.io/badge/-React_Native-000?style=for-the-badge&logo=react" />
+          </a>
           <img src="https://img.shields.io/badge/-android-000?style=for-the-badge&logo=android" />
           <img src="https://img.shields.io/badge/-Java-000?style=for-the-badge&logo=java" />
       </td>
@@ -111,6 +114,25 @@
       </td>
       <td>
         <a href="https://github.com/RichardRNStudio/react-native-find-local-devices">
+          <img src="https://img.shields.io/badge/-github-000?style=for-the-badge&logo=github" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>react-native-slider-intro</td>
+      <td>
+          <a href="https://reactnative.dev/">
+            <img src="https://img.shields.io/badge/-React_Native-000?style=for-the-badge&logo=react" />
+          </a>
+          <img src="https://img.shields.io/badge/-Typescript-000?style=for-the-badge&logo=typescript" />
+      </td>
+      <td>
+         <a href="https://www.npmjs.com/package/react-native-slider-intro">
+          <img src="https://img.shields.io/badge/-npm_package-000?style=for-the-badge&logo=npm" />
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/RichardRNStudio/react-native-slider-intro">
           <img src="https://img.shields.io/badge/-github-000?style=for-the-badge&logo=github" />
         </a>
       </td>
