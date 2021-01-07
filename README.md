@@ -43,7 +43,7 @@
       <td><b>Repository</b></td>
     </tr>
   </thead>
-  <tbody valign="center">
+  <tbody>
     <tr>
       <td>PC Controller</td>
       <td>
