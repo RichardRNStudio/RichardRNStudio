@@ -150,3 +150,6 @@
 <a href="https://www.linkedin.com/in/nagy-rich%C3%A1rd-3363a9140/">
   <img src="https://img.shields.io/badge/-LINKEDIN-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+<a href="https://github.com/RichardRNStudio">
+  <img src="https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=github"/>
+</a>
