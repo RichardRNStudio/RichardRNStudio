@@ -22,6 +22,7 @@
 ![Azure DevOps](https://img.shields.io/badge/-Azure_DevOps-000?style=for-the-badge&logo=azuredevops&logoColor=blue)
 ![Google Play Console](https://img.shields.io/badge/-Google_Play_Console-000?style=for-the-badge&logo=google-play)
 ![Firebase](https://img.shields.io/badge/-Firebase-000?style=for-the-badge&logo=firebase)
+![Heroku](https://img.shields.io/badge/-Heroku-000?style=for-the-badge&logo=heroku)
 ![Google Analytics](https://img.shields.io/badge/-Google_Analytics-000?style=for-the-badge&logo=google-analytics)
 ![Google Tag Manager](https://img.shields.io/badge/-Google_Tag_Manager-000?style=for-the-badge&logo=google-tag-manager)
 ![Google Optimize](https://img.shields.io/badge/-Google_Optimize-000?style=for-the-badge&logo=google)
