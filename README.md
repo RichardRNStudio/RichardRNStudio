@@ -151,16 +151,16 @@
       <td>nodejs-express-graphql-react-todo</td>
       <td>
           <a href="https://nodejs.org/">
-            <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=FFF" />
+            <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=FFF" />
           </a>
         <a href="https://graphql.org/">
-            <img src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=FFF" />
+            <img src="https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=FFF" />
           </a>
         <a href="https://www.apollographql.com/">
-            <img src="https://img.shields.io/badge/-Apollo-GraphQL-311C87?style=for-the-badge&logo=apollo-graphql&logoColor=FFF" />
+            <img src="https://img.shields.io/badge/-Apollo-GraphQL-311C87?style=flat&logo=apollo-graphql&logoColor=FFF" />
           </a>
         <a href="https://reactjs.org/">
-            <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=FFF" />
+            <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=FFF" />
           </a>
       </td>
       <td>
