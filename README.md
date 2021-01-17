@@ -7,7 +7,8 @@
 ![Typescript](https://img.shields.io/badge/-Typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=FFF)
 ![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white&logoColor=FFF)
 ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=FFF)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=blue&logoColor=FFF)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=FFF)
+
 ![MYSQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=FFF)
 ![MSSQL](https://img.shields.io/badge/-MSSQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=FFF)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=FFF)
