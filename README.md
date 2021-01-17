@@ -8,7 +8,7 @@
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=FFF)
 ![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=flat&logo=react&logoColor=FFF)
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux&logoColor=FFF)
-![NodeJS](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=FFF))
+![NodeJS](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=FFF)
 ![Electron](https://img.shields.io/badge/-Electron-47848F?style=flat&logo=electron&logoColor=FFF)
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=FFF)
 ![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat&logo=jest&logoColor=FFF)
