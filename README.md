@@ -1,7 +1,7 @@
 <h1>Hi, I'm Richárd :wave:</h1>
 <h3>I'm working as front-end developer</h3>
 
-<h4>Things what I like</h4>
+<h3>Things what I like</h3>
 
 ![Javascript](https://img.shields.io/badge/-Javascript-F7DF1E?style=flat&logo=javascript&logoColor=FFF)
 ![Typescript](https://img.shields.io/badge/-Typescript-3178C6?style=flat&logo=typescript&logoColor=FFF)
