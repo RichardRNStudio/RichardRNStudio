@@ -94,9 +94,15 @@
     <tr>
       <td>PC Remote Controller (Electron)</td>
       <td>
+        <a href="https://www.electronjs.org/">
           <img src="https://img.shields.io/badge/-Electron-47848F?style=flat&logo=electron&logoColor=FFF" />
+        </a>
+        <a href="https://nodejs.org/">
           <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=FFF" />
+        </a>
+        <a href="https://reactjs.org/">
           <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=FFF" />
+        </a>
       </td>
       <td>
         <i>In progress</i>
@@ -118,7 +124,7 @@
       </td>
       <td>
         <a href="https://github.com/RichardRNStudio/react-native-find-local-devices">
-          <img src="https://img.shields.io/badge/-github-000?style=for-the-badge&logo=github" />
+          <img src="https://img.shields.io/badge/-Github-181717?style=flat&logo=github&logoColor=FFF" />
         </a>
       </td>
     </tr>
@@ -137,7 +143,32 @@
       </td>
       <td>
         <a href="https://github.com/RichardRNStudio/react-native-slider-intro">
-          <img src="https://img.shields.io/badge/-github-181717?style=flat&logo=github&logoColor=FFF" />
+          <img src="https://img.shields.io/badge/-Github-181717?style=flat&logo=github&logoColor=FFF" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>nodejs-express-graphql-react-todo</td>
+      <td>
+          <a href="https://nodejs.org/">
+            <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=FFF" />
+          </a>
+        <a href="https://graphql.org/">
+            <img src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=FFF" />
+          </a>
+        <a href="https://www.apollographql.com/">
+            <img src="https://img.shields.io/badge/-Apollo-GraphQL-311C87?style=for-the-badge&logo=apollo-graphql&logoColor=FFF" />
+          </a>
+        <a href="https://reactjs.org/">
+            <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=FFF" />
+          </a>
+      </td>
+      <td>
+        <i>Done</i>
+      </td>
+      <td>
+        <a href="https://github.com/RichardRNStudio/nodejs-express-graphql-react-todo">
+          <img src="https://img.shields.io/badge/-Github-181717?style=flat&logo=github&logoColor=FFF" />
         </a>
       </td>
     </tr>
