@@ -157,7 +157,7 @@
             <img src="https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=FFF" />
           </a>
         <a href="https://www.apollographql.com/">
-            <img src="https://img.shields.io/badge/-Apollo-GraphQL-311C87?style=flat&logo=apollo-graphql&logoColor=FFF" />
+            <img src="https://img.shields.io/badge/-Apollo_GraphQL-311C87?style=flat&logo=apollo-graphql&logoColor=FFF" />
           </a>
         <a href="https://reactjs.org/">
             <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=FFF" />
@@ -187,5 +187,5 @@
   <img src="https://img.shields.io/badge/-LINKEDIN-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="https://github.com/RichardRNStudio">
-  <img src="https://img.shields.io/badge/-github-181717?style=flat&logo=github&logoColor=FFF"/>
+  <img src="https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=github&logoColor=FFF"/>
 </a>
