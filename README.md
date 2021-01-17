@@ -29,7 +29,7 @@
 [![Flexbox](https://img.shields.io/badge/-Flexbox-157286?style=flat&logo=css3&logoColor=FFF)](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 [![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat&logo=sass&logoColor=FFF)](https://sass-lang.com/)
 
-<h2>Other stuffs what I met</h2>
+<h4>Other stuffs what I met</h4>
 
 [![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white&logoColor=FFF)](https://docs.microsoft.com/en-us/dotnet/csharp/)
 [![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=FFF)](https://www.java.com/en/)
