@@ -3,7 +3,7 @@
 
 <h3>Things what I like</h3>
 
-![Javascript](https://img.shields.io/badge/-Javascript-F7DF1E?style=flat&logo=javascript&logoColor=FFF)
+[![Javascript](https://img.shields.io/badge/-Javascript-F7DF1E?style=flat&logo=javascript&logoColor=FFF)](https://www.javascript.com/)
 ![Typescript](https://img.shields.io/badge/-Typescript-3178C6?style=flat&logo=typescript&logoColor=FFF)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=FFF)
 ![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=flat&logo=react&logoColor=FFF)
