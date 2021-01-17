@@ -115,7 +115,9 @@
           <a href="https://reactnative.dev/">
             <img src="https://img.shields.io/badge/-React_Native-61DAFB?style=flat&logo=react&logoColor=FFF" />
           </a>
-          <img src="https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=FFF" />
+          <a href="https://www.java.com/">
+            <img src="https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=FFF" />
+          </a>
       </td>
       <td>
          <a href="https://www.npmjs.com/package/react-native-find-local-devices">
@@ -134,7 +136,9 @@
           <a href="https://reactnative.dev/">
             <img src="https://img.shields.io/badge/-React_Native-61DAFB?style=flat&logo=react&logoColor=FFF" />
           </a>
-          <img src="https://img.shields.io/badge/-Typescript-3178C6?style=flat&logo=typescript&logoColor=FFF" />
+          <a href="https://www.typescriptlang.org/">
+            <img src="https://img.shields.io/badge/-Typescript-3178C6?style=flat&logo=typescript&logoColor=FFF" />
+          </a>
       </td>
       <td>
          <a href="https://www.npmjs.com/package/react-native-slider-intro">
