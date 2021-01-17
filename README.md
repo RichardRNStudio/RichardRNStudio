@@ -25,7 +25,7 @@
 ![Heroku](https://img.shields.io/badge/-Heroku-000?style=for-the-badge&logo=heroku)
 ![Google Analytics](https://img.shields.io/badge/-Google_Analytics-000?style=for-the-badge&logo=google-analytics)
 ![Google Tag Manager](https://img.shields.io/badge/-Google_Tag_Manager-000?style=for-the-badge&logo=google-tag-manager)
-![Google Optimize](https://img.shields.io/badge/-Google_Optimize-000?style=for-the-badge&logo=google)
+![Google Optimize](https://img.shields.io/badge/-Google_Optimize-000?style=for-the-badge&logo=googleoptimize)
 ![Jest](https://img.shields.io/badge/-Jest-000?style=for-the-badge&logo=jest&logoColor=red)
 ![Adobe Photoshop](https://img.shields.io/badge/-Adobe_Photoshop-000?style=for-the-badge&logo=adobe-photoshop&logoColor=blue)
 ![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git&logoColor=orange)
