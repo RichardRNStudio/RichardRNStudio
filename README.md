@@ -23,6 +23,7 @@
 [![Google Optimize](https://img.shields.io/badge/-Google_Optimize-B366F6?style=flat&logo=google-optimize&logoColor=FFF)](https://marketingplatform.google.com/about/optimize/)
 [![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku&logoColor=FFF)](https://www.heroku.com/)
 [![Adobe Photoshop](https://img.shields.io/badge/-Adobe_Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=FFF)](https://www.adobe.com/products/photoshop.html)
+[![NPM](https://img.shields.io/badge/-NPM-CB3837?style=flat&logo=npm&logoColor=FFF)](https://www.npmjs.com/)
 [![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=FFF)](https://git-scm.com/)
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=FFF)](https://www.w3schools.com/html/)
 [![CSS3](https://img.shields.io/badge/-CSS3-157286?style=flat&logo=css3&logoColor=FFF)](https://www.w3schools.com/css/)
@@ -52,12 +53,12 @@
       <td>PC Controller</td>
       <td>
         <a href="https://reactnative.dev/">
-          <img src="https://img.shields.io/badge/-React_Native-000?style=for-the-badge&logo=react" />
+          <img src="https://img.shields.io/badge/-React_Native-61DAFB?style=flat&logo=react&logoColor=FFF" />
         </a>
       </td>
       <td>
          <a href="https://play.google.com/store/apps/details?id=com.pccontroller">
-          <img src="https://img.shields.io/badge/-Google_Play-000?style=for-the-badge&logo=google-play" />
+          <img src="https://img.shields.io/badge/-Google_Play_Console-414141?style=flat&logo=google-play&logoColor=FFF" />
         </a>
       </td>
       <td><i>Private</i></td>
@@ -66,12 +67,12 @@
       <td>PC Controller Web</td>
       <td>
         <a href="https://reactjs.org/">
-          <img src="https://img.shields.io/badge/-React-000?style=for-the-badge&logo=react" />
+          <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=FFF" />
         </a>
       </td>
       <td>
          <a href="https://pccontroller.rnstudio.hu/">
-          <img src="https://img.shields.io/badge/-Website-000?style=for-the-badge" />
+          <img src="https://img.shields.io/badge/-Website-000?style=flat" />
         </a>
       </td>
       <td><i>Private</i></td>
@@ -80,12 +81,12 @@
       <td>PC Remote Controller (C#)</td>
       <td>
         <a href="https://docs.microsoft.com/en-us/dotnet/csharp/">
-          <img src="https://img.shields.io/badge/-C%23-000?style=for-the-badge&logo=c-sharp&logoColor=white" />
+          <img src="https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white&logoColor=FFF" />
         </a>
       </td>
       <td>
          <a href="https://pccontroller.rnstudio.hu/">
-          <img src="https://img.shields.io/badge/-Available_on_the_website-000?style=for-the-badge" />
+          <img src="https://img.shields.io/badge/-Available_on_the_website-000?style=flat" />
         </a>
       </td>
       <td><i>Private</i></td>
@@ -93,9 +94,9 @@
     <tr>
       <td>PC Remote Controller (Electron)</td>
       <td>
-          <img src="https://img.shields.io/badge/-Electron-000?style=for-the-badge&logo=electron" />
-          <img src="https://img.shields.io/badge/-Node.js-000?style=for-the-badge&logo=node.js" />
-          <img src="https://img.shields.io/badge/-React-000?style=for-the-badge&logo=react" />
+          <img src="https://img.shields.io/badge/-Electron-47848F?style=flat&logo=electron&logoColor=FFF" />
+          <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=FFF" />
+          <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=FFF" />
       </td>
       <td>
         <i>In progress</i>
@@ -106,13 +107,13 @@
       <td>react-native-find-local-devices</td>
       <td>
           <a href="https://reactnative.dev/">
-            <img src="https://img.shields.io/badge/-React_Native-000?style=for-the-badge&logo=react" />
+            <img src="https://img.shields.io/badge/-React_Native-61DAFB?style=flat&logo=react&logoColor=FFF" />
           </a>
-          <img src="https://img.shields.io/badge/-Java-000?style=for-the-badge&logo=java" />
+          <img src="https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=FFF" />
       </td>
       <td>
          <a href="https://www.npmjs.com/package/react-native-find-local-devices">
-          <img src="https://img.shields.io/badge/-npm_package-000?style=for-the-badge&logo=npm" />
+          <img src="https://img.shields.io/badge/-NPM-CB3837?style=flat&logo=npm&logoColor=FFF" />
         </a>
       </td>
       <td>
@@ -125,18 +126,18 @@
       <td>react-native-slider-intro</td>
       <td>
           <a href="https://reactnative.dev/">
-            <img src="https://img.shields.io/badge/-React_Native-000?style=for-the-badge&logo=react" />
+            <img src="https://img.shields.io/badge/-React_Native-61DAFB?style=flat&logo=react&logoColor=FFF" />
           </a>
-          <img src="https://img.shields.io/badge/-Typescript-000?style=for-the-badge&logo=typescript" />
+          <img src="https://img.shields.io/badge/-Typescript-3178C6?style=flat&logo=typescript&logoColor=FFF" />
       </td>
       <td>
          <a href="https://www.npmjs.com/package/react-native-slider-intro">
-          <img src="https://img.shields.io/badge/-npm_package-000?style=for-the-badge&logo=npm" />
+          <img src="https://img.shields.io/badge/-NPM-CB3837?style=flat&logo=npm&logoColor=FFF" />
         </a>
       </td>
       <td>
         <a href="https://github.com/RichardRNStudio/react-native-slider-intro">
-          <img src="https://img.shields.io/badge/-github-000?style=for-the-badge&logo=github" />
+          <img src="https://img.shields.io/badge/-github-181717?style=flat&logo=github&logoColor=FFF" />
         </a>
       </td>
     </tr>
@@ -155,5 +156,5 @@
   <img src="https://img.shields.io/badge/-LINKEDIN-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="https://github.com/RichardRNStudio">
-  <img src="https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/badge/-github-181717?style=flat&logo=github&logoColor=FFF"/>
 </a>
