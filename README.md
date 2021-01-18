@@ -58,7 +58,7 @@
       </td>
       <td>
          <a href="https://play.google.com/store/apps/details?id=com.pccontroller">
-          <img src="https://img.shields.io/badge/-Google_Play_Console-414141?style=flat&logo=google-play&logoColor=FFF" />
+          <img src="https://img.shields.io/badge/-Google_Play-414141?style=flat&logo=google-play&logoColor=FFF" />
         </a>
       </td>
       <td><i>Private</i></td>
