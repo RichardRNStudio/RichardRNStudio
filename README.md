@@ -29,7 +29,7 @@
 [![CSS3](https://img.shields.io/badge/-CSS3-157286?style=flat&logo=css3&logoColor=FFF)](https://www.w3schools.com/css/)
 [![Flexbox](https://img.shields.io/badge/-Flexbox-157286?style=flat&logo=css3&logoColor=FFF)](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 [![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat&logo=sass&logoColor=FFF)](https://sass-lang.com/)
-[![Styled Components](https://img.shields.io/badge/-Styled_Components-CC6699?style=flat&logo=styled-components&logoColor=FFF)](https://styled-components.com/)
+[![Styled Components](https://img.shields.io/badge/-Styled_Components-DB7093?style=flat&logo=styled-components&logoColor=FFF)](https://styled-components.com/)
 
 <h4>Other stuffs what I met</h4>
 
