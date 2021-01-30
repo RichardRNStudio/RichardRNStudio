@@ -20,7 +20,7 @@
 [![Google Play Console](https://img.shields.io/badge/-Google_Play_Console-414141?style=flat&logo=google-play&logoColor=FFF)](https://play.google.com/console/about/)
 [![Google Analytics](https://img.shields.io/badge/-Google_Analytics-E37400?style=flat&logo=google-analytics&logoColor=FFF)](https://marketingplatform.google.com/about/analytics/)
 [![Google Tag Manager](https://img.shields.io/badge/-Google_Tag_Manager-246FD8?style=flat&logo=google-tag-manager&logoColor=FFF)](https://marketingplatform.google.com/about/tag-manager/)
-[![Google Optimize](https://img.shields.io/badge/-Google_Optimize-B366F6?style=flat&logo=google&logoColor=FFF)](https://marketingplatform.google.com/about/optimize/)
+[![Google Optimize](https://img.shields.io/badge/-Google_Optimize-B366F6?style=flat&logo=google-optimize&logoColor=FFF)](https://marketingplatform.google.com/about/optimize/)
 [![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku&logoColor=FFF)](https://www.heroku.com/)
 [![Adobe Photoshop](https://img.shields.io/badge/-Adobe_Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=FFF)](https://www.adobe.com/products/photoshop.html)
 [![NPM](https://img.shields.io/badge/-NPM-CB3837?style=flat&logo=npm&logoColor=FFF)](https://www.npmjs.com/)
