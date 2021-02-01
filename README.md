@@ -17,7 +17,7 @@
 [![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=jira-software&logoColor=FFF)](https://www.atlassian.com/hu/software/jira)
 [![Azure DevOps](https://img.shields.io/badge/-Azure_DevOps-0078D7?style=flat&logo=azuredevops&logoColor=FFF)](https://azure.microsoft.com/en-us/services/devops/?nav=min)
 [![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=FFF)](https://firebase.google.com/)
-[![Expo](https://img.shields.io/badge/-Expo-000020?style=flat&logo=react&logoColor=FFF)](https://expo.io/)
+[![Expo](https://img.shields.io/badge/-Expo-000020?style=flat&logo=expo&logoColor=FFF)](https://expo.io/)
 [![Google Play Console](https://img.shields.io/badge/-Google_Play_Console-414141?style=flat&logo=google-play&logoColor=FFF)](https://play.google.com/console/about/)
 [![Google Analytics](https://img.shields.io/badge/-Google_Analytics-E37400?style=flat&logo=google-analytics&logoColor=FFF)](https://marketingplatform.google.com/about/analytics/)
 [![Google Tag Manager](https://img.shields.io/badge/-Google_Tag_Manager-246FD8?style=flat&logo=google-tag-manager&logoColor=FFF)](https://marketingplatform.google.com/about/tag-manager/)
