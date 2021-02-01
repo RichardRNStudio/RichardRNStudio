@@ -106,7 +106,7 @@
         </a>
       </td>
       <td>
-        <i>In progress</i>
+        <i>Suspended</i>
       </td>
       <td><i>Private</i></td>
     </tr>
