@@ -194,3 +194,8 @@
 <a href="https://github.com/RichardRNStudio">
   <img src="https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=github&logoColor=FFF"/>
 </a>
+
+<h3>Support</h3>
+<a href="https://www.buymeacoffee.com/rnstudio"> 
+  <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="180" alt="rnstudio" />
+</a>
