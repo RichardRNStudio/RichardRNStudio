@@ -1,4 +1,4 @@
-<h1>Hi, I'm Richárd :wave:</h1>
+<h1>Hi, I'm Richard :wave:</h1>
 <h3>I'm working as front-end developer</h3>
 
 <h3>Things what I like</h3>
