@@ -8,6 +8,7 @@
 [![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=FFF)](https://reactjs.org/)
 [![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=flat&logo=react&logoColor=FFF)](https://reactnative.dev/)
 [![Next.js](https://img.shields.io/badge/-Next.js-000?style=flat&logo=next.js&logoColor=FFF)](https://nextjs.org/)
+[![Contentful](https://img.shields.io/badge/-Contentful-FFF?style=flat&logo=Contentful&logoColor=2478CC)](https://www.contentful.com/)
 [![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux&logoColor=FFF)](https://redux.js.org/)
 [![NodeJS](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=FFF)](https://nodejs.org/)
 [![Electron](https://img.shields.io/badge/-Electron-47848F?style=flat&logo=electron&logoColor=FFF)](https://www.electronjs.org/)
