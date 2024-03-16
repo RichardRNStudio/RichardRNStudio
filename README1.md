@@ -1,5 +1,5 @@
 <h1>Hi :wave:, my name is Richard</h1>
-<h3>I am a full stack developer with 7+ years of industry experience building web applications.</h3>
+<h4>I am a full stack developer with 7+ years of industry experience building web applications.</h4>
 
 <div>
   <a href="https://github.com/RichardRNStudio">
