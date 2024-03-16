@@ -1,5 +1,5 @@
-<h1>Hi, My name is Richárd :wave:</h1>
-<h3>I'm working as front-end developer</h3>
+<h1>Hi :wave:, my name is Richárd</h1>
+<h3>I am a full stack developer with 8+ years of industry experience building web applications.</h3>
 
 <h3>Follow me</h3>
 <a href="https://www.linkedin.com/in/nagy-rich%C3%A1rd-3363a9140/">
