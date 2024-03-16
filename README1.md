@@ -1,6 +1,6 @@
-<h1>Hi :wave:, my name is Richard</h1>
+<h1>Hi :wave:, I'm Richard</h1>
 
-<h4>I am a full stack developer with 7+ years of industry experience building web applications.</h4>
+<h4>Full stack developer with 7+ years of industry experience building web applications.</h4>
 
 [![Javascript](https://img.shields.io/badge/-Javascript-F7DF1E?style=flat&logo=javascript&logoColor=FFF)](https://www.javascript.com/)
 [![Typescript](https://img.shields.io/badge/-Typescript-3178C6?style=flat&logo=typescript&logoColor=FFF)](https://www.typescriptlang.org/)
