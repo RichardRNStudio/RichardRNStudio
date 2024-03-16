@@ -1,12 +1,6 @@
 <h1>Hi :wave:, my name is Richard</h1>
 <h4>I am a full stack developer with 7+ years of industry experience building web applications.</h4>
 
-<div>
-  <a href="https://github.com/RichardRNStudio">
-  <img height="180em" src="https://github-readme-stats-zeta-livid-55.vercel.app/api/top-langs/?username=RichardRNStudio&layout=compact&langs_count=6&count_private=true"/>
-  </a>
-</div>
-
 <h3>Follow me</h3>
 <a href="https://www.linkedin.com/in/nagy-rich%C3%A1rd-3363a9140/">
   <img src="https://img.shields.io/badge/-LINKEDIN-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
