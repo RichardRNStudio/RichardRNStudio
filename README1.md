@@ -1,4 +1,4 @@
-<h1>Hi :wave:, my name is Richárd</h1>
+<h1>Hi :wave:, my name is Richard</h1>
 <h3>I am a full stack developer with 8+ years of industry experience building web applications.</h3>
 
 <h3>Follow me</h3>
