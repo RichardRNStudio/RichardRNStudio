@@ -10,7 +10,7 @@
 
 <details>
   <summary>:zap: react-native-slider-intro</summary>
-  <p>A simple and fully customizable React Native package which implements a unique slider.</p>
+  <p>A simple and full customizable React Native package which implements a unique slider.</p>
 
   - [![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=flat&logo=react&logoColor=FFF)](https://reactnative.dev/) [![Typescript](https://img.shields.io/badge/-Typescript-3178C6?style=flat&logo=typescript&logoColor=FFF)](https://www.typescriptlang.org/)
   - Available on [![NPM](https://img.shields.io/badge/-NPM-CB3837?style=flat&logo=npm&logoColor=FFF)](https://www.npmjs.com/package/react-native-slider-intro)
