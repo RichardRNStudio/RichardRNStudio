@@ -12,11 +12,24 @@
   <summary>:zap: react-native-slider-intro</summary>
   <p>A simple and full customizable React Native package which implements a unique slider.</p>
 
-  - [![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=flat&logo=react&logoColor=FFF)](https://reactnative.dev/) [![Typescript](https://img.shields.io/badge/-Typescript-3178C6?style=flat&logo=typescript&logoColor=FFF)](https://www.typescriptlang.org/)
-  - Available on [![NPM](https://img.shields.io/badge/-NPM-CB3837?style=flat&logo=npm&logoColor=FFF)](https://www.npmjs.com/package/react-native-slider-intro)
-  <a href="https://github.com/RichardRNStudio/react-native-slider-intro">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RichardRNStudio&repo=react-native-slider-intro&theme=dark" />
-  </a>
+  <table width="100%">
+    <tr>
+      <td>
+        <a href="https://reactnative.dev/"><img src="https://img.shields.io/badge/-React_Native-61DAFB?style=flat&logo=react&logoColor=FFF" /></a>
+        <a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/-Typescript-3178C6?style=flat&logo=typescript&logoColor=FFF" /></a>
+      </td>
+      <td rowspan="2">
+        <a href="https://github.com/RichardRNStudio/react-native-slider-intro">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=RichardRNStudio&repo=react-native-slider-intro&theme=dark" />
+        </a>
+      </td>
+    </tr>
+     <tr>
+      <td>
+        Available on <a href="https://www.npmjs.com/package/react-native-slider-intro"><img src="https://img.shields.io/badge/-NPM-CB3837?style=flat&logo=npm&logoColor=FFF" /></a>
+      </td>
+     </tr>
+  </table>
 </details>
 
 <details>
