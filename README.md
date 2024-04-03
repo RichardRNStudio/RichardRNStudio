@@ -28,7 +28,7 @@
     <img src="https://github.com/RichardRNStudio/react-native-slider-intro/blob/main/docs/basic-example.gif?raw=true" height="350"/>
     <img src="https://github.com/RichardRNStudio/react-native-slider-intro/blob/main/docs/custom-buttons-example.gif?raw=true" height="350"/>
     <img src="https://github.com/RichardRNStudio/react-native-slider-intro/blob/main/docs/column-buttons-example.gif?raw=true" height="350"/>
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RichardRNStudio&repo=react-native-slider-intro&theme=dark" />
+    <a href="https://github.com/RichardRNStudio/react-native-slider-intro"><img src="https://github-readme-stats.vercel.app/api/pin/?username=RichardRNStudio&repo=react-native-slider-intro&theme=dark" /></a>
   </p>
 </details>
 
