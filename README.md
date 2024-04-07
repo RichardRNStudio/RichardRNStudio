@@ -12,9 +12,9 @@
   <summary>:zap: react-native-slider-intro</summary>
   <br />
 
+  [![Available on NPM](https://img.shields.io/badge/-Available_on_NPM-CB3837?style=flat&logo=npm&logoColor=FFF)](https://www.npmjs.com/package/react-native-slider-intro) 
   [![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=flat&logo=react&logoColor=FFF)](https://reactnative.dev/)
   [![Typescript](https://img.shields.io/badge/-Typescript-3178C6?style=flat&logo=typescript&logoColor=FFF)](https://www.typescriptlang.org/)
-  [![Available on NPM](https://img.shields.io/badge/-Available_on_NPM-CB3837?style=flat&logo=npm&logoColor=FFF)](https://www.npmjs.com/package/react-native-slider-intro) 
   
   [![npm version](https://img.shields.io/npm/v/react-native-slider-intro.svg)](https://www.npmjs.com/package/react-native-slider-intro)
   [![platform](https://img.shields.io/badge/platform-Android_%7C_iOS-yellow)](https://github.com/RichardRNStudio/react-native-slider-intro)
