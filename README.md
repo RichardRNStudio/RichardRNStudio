@@ -1,4 +1,4 @@
-<h1>Hi :wave:, I'm Richard</h1>
+<h1>Hi there :wave:, My name is Richard</h1>
 
 <h4>Full stack developer with 7+ years of industry experience building web applications.</h4>
 
@@ -8,8 +8,10 @@
 [![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=flat&logo=react&logoColor=FFF)](https://reactnative.dev/)
 [![Next.js](https://img.shields.io/badge/-Next.js-000?style=flat&logo=next.js&logoColor=FFF)](https://nextjs.org/)
 
+<h2>My Projects</h2>
+
 <details>
-  <summary>:zap: react-native-slider-intro</summary>
+  <summary>📌 <b>react-native-slider-intro</b></summary>
   <br />
 
   [![Available on NPM](https://img.shields.io/badge/-Available_on_NPM-CB3837?style=flat&logo=npm&logoColor=FFF)](https://www.npmjs.com/package/react-native-slider-intro) 
@@ -32,7 +34,28 @@
 </details>
 
 <details>
-  <summary>:zap: PC Controller</summary>
+  <summary>📌 <b>react-native-find-local-devices</b></summary>
+  <br />
+
+  [![Available on NPM](https://img.shields.io/badge/-Available_on_NPM-CB3837?style=flat&logo=npm&logoColor=FFF)](https://www.npmjs.com/package/react-native-find-local-devices) 
+  [![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=flat&logo=react&logoColor=FFF)](https://reactnative.dev/)
+  [![Typescript](https://img.shields.io/badge/-Typescript-3178C6?style=flat&logo=typescript&logoColor=FFF)](https://www.typescriptlang.org/)
+  
+  [![npm version](https://img.shields.io/npm/v/react-native-find-local-devices.svg)](https://www.npmjs.com/package/react-native-find-local-devices)
+  [![platform](https://img.shields.io/badge/platform-Android-yellow)](https://github.com/RichardRNStudio/react-native-find-local-devices)
+  [![NPM total downloads](https://img.shields.io/npm/d18m/react-native-find-local-devices.svg?style=flat)](https://npmcharts.com/compare/react-native-find-local-devices?minimal=true)
+  [![license](https://img.shields.io/badge/license-MIT-green)](https://github.com/RichardRNStudio/react-native-find-local-devices/blob/main/LICENSE)
+  <p align="center">
+    It can be helpful when you try to get a list of your local devices over WiFi when the devices includes at least one websocket connection.
+  </p>
+  <p align="center">
+    <img src="https://github.com/RichardRNStudio/react-native-find-local-devices/tree/main/docs/android-example.gif?raw=true" height="450"/>
+    <a href="https://github.com/RichardRNStudio/react-native-find-local-devices"><img src="https://github-readme-stats.vercel.app/api/pin/?username=RichardRNStudio&repo=react-native-find-local-devices&theme=dark" /></a>
+  </p>
+</details>
+
+<details>
+  <summary>📌 <b>PC Controller</b></summary>
   <p>PC Controller is my first React Native application. It is about to control a windows machine via android phone.</p>
 
   - [![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=flat&logo=react&logoColor=FFF)](https://reactnative.dev/) [![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white&logoColor=FFF)](https://docs.microsoft.com/en-us/dotnet/csharp/) [![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=FFF)](https://firebase.google.com/) [![Google Play Console](https://img.shields.io/badge/-Google_Play_Console-414141?style=flat&logo=google-play&logoColor=FFF)](https://play.google.com/console/about/)
