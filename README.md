@@ -63,7 +63,6 @@
   <summary>📌 <b>PC Controller (2020)</b></summary>
   <br />
 
-  [![Google Play](https://img.shields.io/badge/-Available_on_Google_Play-414141?style=flat&logo=google-play&logoColor=FFF)](https://play.google.com/store/apps/details?id=com.pccontroller)
   [![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=flat&logo=react&logoColor=FFF)](https://reactnative.dev/) 
   [![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white&logoColor=FFF)](https://docs.microsoft.com/en-us/dotnet/csharp/) 
   [![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=FFF)](https://firebase.google.com/) 
@@ -71,12 +70,9 @@
   
   <p align="center">
     PC Controller is my first React Native application. It is about to control a windows machine via android phone. <br/>
-    https://pccontroller.rnstudio.hu 
     <br /> 
     <br />
-    <a href="https://pccontroller.rnstudio.hu/">
-      <img src="https://github.com/RichardRNStudio/RichardRNStudio/blob/main/mockups.png?raw=true" />
-    </a>
+    <img src="https://github.com/RichardRNStudio/RichardRNStudio/blob/main/mockups.png?raw=true" />
   </p>
 
 </details>
