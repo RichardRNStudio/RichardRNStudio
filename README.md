@@ -23,7 +23,7 @@
   [![NPM total downloads](https://img.shields.io/npm/d18m/react-native-slider-intro.svg?style=flat)](https://npmcharts.com/compare/react-native-slider-intro?minimal=true)
   [![license](https://img.shields.io/badge/license-MIT-green)](https://github.com/RichardRNStudio/react-native-slider-intro/blob/main/LICENSE)
   <p align="center">
-    A simple and full customizable React Native package which implements a unique slider.
+    A simple and fully customizable React Native package that implements a unique slider.
   </p>
   <p align="center">
     <img src="https://github.com/RichardRNStudio/react-native-slider-intro/blob/main/docs/basic-example.gif?raw=true" height="350"/>
@@ -46,7 +46,7 @@
   [![NPM total downloads](https://img.shields.io/npm/d18m/react-native-find-local-devices.svg?style=flat)](https://npmcharts.com/compare/react-native-find-local-devices?minimal=true)
   [![license](https://img.shields.io/badge/license-MIT-green)](https://github.com/RichardRNStudio/react-native-find-local-devices/blob/main/LICENSE)
   <p align="center">
-    It can be helpful when you try to get a list of your local devices over WiFi when the devices includes at least one websocket connection.
+    It’s particularly useful for discovering and listing local devices over Wi-Fi, especially when at least one device maintains an active WebSocket connection.
   </p>
   <p align="center">
     <img src="https://github.com/RichardRNStudio/react-native-find-local-devices/blob/main/docs/android-example.gif?raw=true" height="450" />
