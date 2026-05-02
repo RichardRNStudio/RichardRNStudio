@@ -51,7 +51,6 @@
   <p align="center">
     <img src="https://github.com/RichardRNStudio/react-native-find-local-devices/blob/main/docs/android-example.gif?raw=true" height="450" />
     <br />
-    <a href="https://github.com/RichardRNStudio/react-native-find-local-devices"><img src="https://github-readme-stats.vercel.app/api/pin/?username=RichardRNStudio&repo=react-native-find-local-devices&theme=dark" /></a>
   </p>
   <p align=center">
   </p>
