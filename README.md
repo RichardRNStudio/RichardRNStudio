@@ -11,7 +11,7 @@
 <h2>My Projects</h2>
 
 <details>
-  <summary>📌 <b>react-native-slider-intro</b></summary>
+  <summary>📌 <b>react-native-slider-intro (2020)</b></summary>
   <br />
 
   [![Available on NPM](https://img.shields.io/badge/-Available_on_NPM-CB3837?style=flat&logo=npm&logoColor=FFF)](https://www.npmjs.com/package/react-native-slider-intro) 
@@ -35,7 +35,7 @@
 </details>
 
 <details>
-  <summary>📌 <b>react-native-find-local-devices</b></summary>
+  <summary>📌 <b>react-native-find-local-devices (2020)</b></summary>
   <br />
 
   [![Available on NPM](https://img.shields.io/badge/-Available_on_NPM-CB3837?style=flat&logo=npm&logoColor=FFF)](https://www.npmjs.com/package/react-native-find-local-devices) 
@@ -60,7 +60,7 @@
 </details>
 
 <details>
-  <summary>📌 <b>PC Controller</b></summary>
+  <summary>📌 <b>PC Controller (2020)</b></summary>
   <br />
 
   [![Google Play](https://img.shields.io/badge/-Available_on_Google_Play-414141?style=flat&logo=google-play&logoColor=FFF)](https://play.google.com/store/apps/details?id=com.pccontroller)
