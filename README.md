@@ -74,7 +74,7 @@
 </details>
 
 <h3>Follow me</h3>
-<a href="https://www.linkedin.com/in/richard-nagy-rnstudio/">
+<a href="https://www.linkedin.com/in/richardnagy94">
   <img src="https://img.shields.io/badge/-LINKEDIN-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="https://github.com/RichardRNStudio">
